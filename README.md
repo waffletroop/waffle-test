@@ -1,3 +1,3 @@
 # waffle-test
-Just a test repo
+An awesome test repo
 :)
